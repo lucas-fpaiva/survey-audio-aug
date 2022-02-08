@@ -1,4 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] <a href="https://colab.research.google.com/github/lucas-fpaiva/survey-audio-aug/blob/main/survey_aug.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # survey-audio-aug
 This repository contains the suplementary material of the paper *A Survey of Data Augmentation for Audio Classification* submeted to [Sound and Music Computing - SMC2022](https://smc22.grame.fr/calls.html#paper-call)
